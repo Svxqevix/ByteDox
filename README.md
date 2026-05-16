@@ -21,7 +21,3 @@ University covers a lot, but I'm also teaching myself things as I go along:
 - Better UI/UX Design - Making sure apps run smoothly and look modern.
 - Frontend Frameworks - Exploring React and others to build more up to date websites.
 - Code Structure - Naming and organising complex code so it actually makes sense later on.
-
----
-
-📬 Reach me on Discord: @B1ackshadow22#6334
